@@ -1,0 +1,25 @@
+#one{
+    background-image: url(https://www.w3schools.com/w3images/beach3.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    
+}
+body{
+    margin: 0;
+}
+.container{
+    margin: 0;
+    height: 50%;
+    margin: right
+    ;
+    flex-wrap: wrap;
+}
+.content{
+    display: flex  ;
+    justify-content: space-between;
+}
+.item{
+    background-color: rgb(213, 210, 210);
+    width: 100%;
+    border: 10px solid  rgb(255, 255, 255) ;
+}
